@@ -1,5 +1,4 @@
 # CNN-Project-Machine-Learning
-This is a project in the Machine Learning class, in which we used CNN to detect drivers behaviour. The file dataset.py loads the dataset from Kaggle on a JSON format and then the file CNN.py runs the Convolutional Neural Network model.
+This project, part of the Machine Learning class, utilizes Convolutional Neural Networks (CNN) to detect driver behavior. The dataset.py script loads the dataset from Kaggle in JSON format, while the CNN.py script runs the Convolutional Neural Network model.
 
-Contributors:
-Enda Alidema & Trime Ismajli
+Contributors: Enda Alidema & Trime Ismajli
